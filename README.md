@@ -2,7 +2,7 @@
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Gradient%20Boosting-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Status](https://img.shields.io/badge/Status-Phase%201%20Complete-brightgreen)
 
 ## 📌 Project Overview
 This project solves a highly technical real-world manufacturing challenge: **Predicting processing and cut times for high-precision semiconductor/chip manufacturing equipment.** 
